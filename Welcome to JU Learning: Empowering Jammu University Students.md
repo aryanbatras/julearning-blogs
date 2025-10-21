@@ -32,6 +32,6 @@ We've recently added exciting features like:
 
 ## Conclusion
 
-JU Learning is more than a platform—it's a movement to empower JU students. Join us today and take your education to the next level. For any queries, reach out via our contact page.
+JU Learning is more than a platform. It's a movement to empower JU students. Join us today and take your education to the next level. For any queries, reach out via our contact page.
 
-*Made with ❤️ by the JU Learning Team*
+*Made with love by the JU Learning Team*
